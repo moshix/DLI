@@ -27,10 +27,16 @@ DL/I Distribution
 About DL/I
 ==========
 
-IBM designed the DLI with Rockwell and Caterpillar starting in 1966 for the Apollo program, where it was used to inventory the very large bill of materials (BOM) for the Saturn V Moon rocket and Apollo space vehicle.[citation needed]  
+IBM designed the DLI with Rockwell and Caterpillar starting in 1966 for the Apollo program, where it was used to inventory the very large bill of materials (BOM) for the Saturn V Moon rocket and Apollo space vehicle.
 
-The first "DLI READY" message appeared on an IBM 2740 terminal in Downey, California, on August 14, 1968.[1] In the interim period, DLI has undergone many developments as IBM System/360 technology evolved into the current z/OS and IBM zEnterprise System technologies.  
+The first "DLI READY" message appeared on an IBM 2740 terminal in Downey, California, on August 14, 1968. 
 
-The DLI Database component stores data using a hierarchical model. In DLI, the hierarchical model is implemented using blocks of data known as segments. Each segment can contain several pieces of data, which are called fields.[4] For example, a customer database may have a root segment (or the segment at the top of the hierarchy) with fields such as phone, name, and age. Child segments may be added underneath another segment, for instance, one order segment under each customer segment represents each order a customer has placed with a company. Likewise, each order segment may have many children segments for each item on the order.  
+In the interim period, DLI has undergone many developments as IBM System/360 technology evolved into the current z/OS and IBM zEnterprise System technologies.  
+
+The DLI Database component stores data using a hierarchical model. In DLI, the hierarchical model is implemented using blocks of data known as segments. Each segment can contain several pieces of data, which are called fields.   
+
+For example, a customer database may have a root segment (or the segment at the top of the hierarchy) with fields such as phone, name, and age.   
+
+Child segments may be added underneath another segment, for instance, one order segment under each customer segment represents each order a customer has placed with a company. Likewise, each order segment may have many children segments for each item on the order.  
 
 October 2023, Tel Aviv  
