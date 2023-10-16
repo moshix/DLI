@@ -1,4 +1,5 @@
-#IBM DL/I Database for IBM MVT mainframe OS 
+IBM DL/I Database for IBM MVT mainframe OS 
+==========================================
 
 This is an early precursor to IBM's DLI/DB hierarchical database.  This DL/I version is dated 1968 and is open source.   
 
@@ -8,6 +9,20 @@ It installs on IBM OS/360 MVT 23.8 fine with an SVC (kind of system call) added 
 Restore jobs to read in the tape are provided in .tar form. Along with SVC installation jobs and verification job.   
 
 It is my intention to later add sample, boilerplate application code.   
+
+
+DL/I Distribution
+==================
+
+| File                           | Description           |
+| ------------------------------ | --------------------- |
+| DLI.aws                        | Distribution tape     |  
+| RestoreJobs.tar                | JCL to read in tape   |  
+| DLI-SVC-jobs.tar               | SVC installation jobs |
+| DLIjobs.tar                    | Verification jobs     |
+| 360D-01.6.007.pdf              | DL/I Manual by IBM    |
+| Is it historically important?  | :white_check_mark:    |  
+| Can it be used for production? | :x:                   |  
 
 About DL/I
 ==========
