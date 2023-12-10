@@ -14,6 +14,7 @@ Restore jobs to read in the tape are provided in .tar form. Along with SVC insta
 It is my intention to later add sample, boilerplate application code.   
 
 
+
 DL/I Distribution
 ==================
 
@@ -42,4 +43,9 @@ For example, a customer database may have a root segment (or the segment at the 
 
 Child segments may be added underneath another segment, for instance, one order segment under each customer segment represents each order a customer has placed with a company. Likewise, each order segment may have many children segments for each item on the order.  
 
-October 2023, Tel Aviv  
+December 2023 Update
+====================
+
+The DLI.aws tape was missing the end of tape marks. Prof. Rene' Ferland added them, and the corrected tape is now in this repository. Many thanks to Prof. Ferland!
+
+December 2023, Riga  
