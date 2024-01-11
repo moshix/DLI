@@ -23,13 +23,13 @@ with HASP, TCAM and TSO.
     
 2. I downloaded all the material from Moshix's git https://github.com/moshix/DLI and unpacked it into
 the DLI directory within the MVT system.
-
+<pre>
 DLI-SVC-jobs.tar in svc dir.
 DLIjobs.tar      in dli dir.
 RestoreJobs.tar  in restore dir.
 Tape DLI.aws which is (I believe) tape modified ba Rene Ferland with 2 tape marks at the end.
 Additionaly i have unpacked jobs from my tar dli-jcls.tar in directory dli-jcls.
-
+</pre>
   
 3. I created 6 2214 disks and named them SORT01 to SORT06 as provided in the materials from Moshix's git. 
  will not describe here how it was done because it is too extensive and I believe that everyone should 
@@ -72,14 +72,14 @@ rename 'sys1.linklib(ikfcbl00)' 'sys1.linklib(IEQCBL00)' alias (from TSO)
 so I did it additionally.
   
 4. Creating test database:
-   <pre>
+<pre>
 - dli199.jcl create DBD  for our database.
 - dli200.jcl allocate and catalog database datasets on the SORT05 and SORT06 DASD-s.
 - dli300.jcl create PSB.
 - dli301.jcl compile and link COBOL program for database testing.
 - dli302.jcl use this cobol prog to test loading database. 
 - dli3022.jcl is "light" version of dli302.jcl job with just a few records.
- </pre>
+</pre>
 
 
 
