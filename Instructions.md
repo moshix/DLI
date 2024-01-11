@@ -28,8 +28,9 @@ DLI-SVC-jobs.tar in svc dir.
 DLIjobs.tar      in dli dir.
 RestoreJobs.tar  in restore dir.
 Tape DLI.aws which is (I believe) tape modified ba Rene Ferland with 2 tape marks at the end.
-Additionaly i have unpacked jobs from my tar dli-jcls.tar in directory dli-jcls.
 </pre>
+Additionaly i have unpacked jobs from my tar dli-jcls.tar in directory dli-jcls.
+
   
 3. I created 6 2214 disks and named them SORT01 to SORT06 as provided in the materials from Moshix's git. 
  will not describe here how it was done because it is too extensive and I believe that everyone should 
