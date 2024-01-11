@@ -54,7 +54,7 @@ The DLI.aws tape was missing the end of tape marks. Prof. Rene' Ferland added th
 January 2024 Update
 ====================
 
-A user called Crni Mrki, has put together a few jobs to sysgen, create the SVC and then run some DL/I batch jobs. It apparently runs fine on MVT. DL/I on MVT is known to work fine. There is still some work needed to attempt to get it to work on MVS 3.8 (TK5 or TK4-). The tar bar called dli-jcls is by Crni Mrki, with thanks.  
+A user called Crni Mrki, has put together a few jobs to sysgen, create the SVC and then run some DL/I batch jobs. It apparently runs fine on MVT. DL/I on MVT is known to work fine. There is still some work needed to attempt to get it to work on MVS 3.8 (TK5 or TK4-). The tar bar called dli-jcls is by Crni Mrki, with thanks. I have personally not yet run these jobs by Crni Mrki but she/he says that they work. 
 
 
 January 2024, Rome
