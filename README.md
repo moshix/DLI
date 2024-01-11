@@ -51,7 +51,7 @@ December 2023 Update
 
 The DLI.aws tape was missing the end of tape marks. Prof. Rene' Ferland added them, and the corrected tape is now in this repository. Many thanks to Prof. Ferland!
 
-January 2924 Update
+January 2024 Update
 ====================
 
 A user called Crni Mrki, has put together a few jobs to sysgen, create the SVC and then run some DL/I batch jobs. It apparently runs fine on MVT. DL/I on MVT is known to work fine. There is still some work needed to attempt to get it to work on MVS 3.8 (TK5 or TK4-). The tar bar called dli-jcls is by Crni Mrki, with thanks.  
