@@ -27,6 +27,9 @@ DL/I Distribution
 | DLIjobs.tar                    | Verification jobs     |
 | 360D-01.6.007.pdf              | DL/I Manual by IBM    |
 | Is it historically important?  | :white_check_mark:    |  
+| Does it run on MVT?            | :white_check_mark:    |
+| Does it run on MVS 3.8 ?       | :x:                   |
+| Is it historically important?  | :white_check_mark:    |
 | Can it be used for production? | :x:                   |  
 
 About DL/I
@@ -34,7 +37,6 @@ About DL/I
 
 IBM designed the DLI with Rockwell and Caterpillar starting in 1966 for the Apollo program, where it was used to inventory the very large bill of materials (BOM) for the Saturn V Moon rocket and Apollo space vehicle.
 
-The first "DLI READY" message appeared on an IBM 2740 terminal in Downey, California, on August 14, 1968. 
 
 In the interim period, DLI has undergone many developments as IBM System/360 technology evolved into the current z/OS and IBM zEnterprise System technologies.  
 
@@ -49,4 +51,10 @@ December 2023 Update
 
 The DLI.aws tape was missing the end of tape marks. Prof. Rene' Ferland added them, and the corrected tape is now in this repository. Many thanks to Prof. Ferland!
 
-December 2023, Riga  
+January 2924 Update
+====================
+
+A user called Crni Mrki, has put together a few jobs to sysgen, create the SVC and then run some DL/I batch jobs. It apparently runs fine on MVT. DL/I on MVT is known to work fine. There is still some work needed to attempt to get it to work on MVS 3.8 (TK5 or TK4-). The tar bar called dli-jcls is by Crni Mrki, with thanks.  
+
+
+January 2024, Rome
