@@ -5,16 +5,9 @@
 IBM DL/I Database for IBM MVT mainframe OS 
 ==========================================
 
-This is an early precursor to IBM's DLI/DB hierarchical database.  This DL/I version is dated 1968 and is open source.   
-
-
-It installs on IBM OS/360 MVT 23.8 fine with an SVC (kind of system call) added to the nucleus.  
+This is an early precursor to IBM's DLI/DB hierarchical database.  This DL/I version is dated 1968 and is open source. It installs on IBM OS/360 MVT 23.8 fine with an SVC (kind of system call) added to the nucleus.  
 
 Restore jobs to read in the tape are provided in .tar form. Along with SVC installation jobs and verification job.   
-
-It is my intention to later add sample, boilerplate application code.   
-
-
 
 DL/I Distribution
 ==================
