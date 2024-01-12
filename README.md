@@ -56,7 +56,7 @@ January 2024 Update
 
 A user called Crni Mrki, has put together a few jobs to sysgen, create the SVC and then run some DL/I batch jobs. It apparently runs fine on MVT. DL/I on MVT is known to work fine. There is still some work needed to attempt to get it to work on MVS 3.8 (TK5 or TK4-). The tar bar called dli-jcls is by Crni Mrki, with thanks. I have personally not yet run these jobs by Crni Mrki but she/he says that they work.   
 
-Famous Volker Bandke explained about in 2005 why DLI/360 won't run on MVS 3.8
+Famous Volker Bandke explained n 2005 why DLI/360 won't run on MVS 3.8: 
 <pre>
 Sender:"Volker Bandke"
 Post Date/Time:2005-02-14 03:02:52
