@@ -22,7 +22,6 @@ DL/I Distribution
 | Is it historically important?  | :white_check_mark:    |  
 | Does it run on MVT?            | :white_check_mark:    |
 | Can it run on MVS 3.8?         | :x:  Not this version |
-| Is it historically important?  | :white_check_mark:    |
 | Can it be used for production? | :x:                   |  
 
 About DL/I
