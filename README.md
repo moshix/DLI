@@ -27,10 +27,10 @@ DL/I Distribution
 About DL/I
 ==========
 
-IBM designed the DLI with Rockwell and Caterpillar starting in 1966 for the Apollo program, where it was used to inventory the very large bill of materials (BOM) for the Saturn V Moon rocket and Apollo space vehicle.
+IBM designed the DLI with Rockwell and Caterpillar starting in 1966 for the Apollo program, where it was used to inventory the very large bill of materials (BOM) for the Saturn V moon rocket and Apollo space vehicle.
 
 
-In the interim period, DLI has undergone many developments as IBM System/360 technology evolved into the current z/OS and IBM zEnterprise System technologies.  
+In the interim period, DLI has undergone many developments as IBM System/360 technology evolved into the current z/OS, now known as IMS/DB. 
 
 The DLI Database component stores data using a hierarchical model. In DLI, the hierarchical model is implemented using blocks of data known as segments. Each segment can contain several pieces of data, which are called fields.   
 
@@ -130,7 +130,8 @@ lr5i8zdC54phjhwBal+5Ez0o
 =nq2y
 -----END PGP SIGNATURE-----
 </pre>
-
+<br><br>
+<br>
 So, this I guess explains very well that without major rework this DL/I will never work on MVS 3.8. 
   
-January 2024, Singapore
+May 2024, Singapore
