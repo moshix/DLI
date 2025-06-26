@@ -1,7 +1,5 @@
 [![View SBOM](https://img.shields.io/badge/sbom.sh-viewSBOM-blue?link=https%3A%2F%2Fsbom.sh%2Fdc1800c8-18d7-4b52-8733-9f208e2d6715)](https://sbom.sh/dc1800c8-18d7-4b52-8733-9f208e2d6715)
-[![Discord](https://img.shields.io/discord/423767742546575361.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoshix%2FDLI&count_bg=%2379C83D&title_bg=%23555555&icon=ibm.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
-<br>
+
 IBM DL/I Database for IBM MVT mainframe OS 
 ==========================================
 
@@ -134,4 +132,4 @@ lr5i8zdC54phjhwBal+5Ez0o
 <br>
 So, this I guess explains very well that without major rework this DL/I will never work on MVS 3.8. 
   
-May 2024, Singapore
+June 2025, Autria
