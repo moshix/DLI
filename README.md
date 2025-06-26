@@ -132,4 +132,4 @@ lr5i8zdC54phjhwBal+5Ez0o
 <br>
 So, this I guess explains very well that without major rework this DL/I will never work on MVS 3.8. 
   
-June 2025, Autria
+June 2025, Austria
