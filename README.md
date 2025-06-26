@@ -91,7 +91,7 @@ load will fail with  messages
 IEC223I IFG0200V,UP0712,G,TESTDBO,13B,DLI001,DLI.TESTDB.OSAM
 IEC999I IFG0TC0A,IFG0TC0B,UP0712  ,G       ,DEB ADDR = 9ABF9C
       
-when the OSAM part of the database is accesses.  No reason code. 
+when the OSAM part of the database is accessed.  No reason code. 
 Looking at the job log I find a return code of 5728  (??  I always
 knew that a RC cannot be more than 4095 ??)
 
